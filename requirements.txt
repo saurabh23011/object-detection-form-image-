@@ -1,0 +1,9 @@
+streamlit
+Pillow
+opencv-python
+numpy
+ultralytics
+plotly
+requests
+pandas
+xlsxwriter
